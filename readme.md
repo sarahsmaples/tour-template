@@ -65,11 +65,15 @@ Ensure you have the following installed:
 
 ### Installation
 
-### Clone the repository:
+### Use this template:
+1. Click the green "Use this template" button at the top of this repository
+2. Choose "Create a new repository"
+3. Name your new repository (e.g., `client-website`)
+4. Clone your new repository:
 
 ```
-git clone https://github.com/your-username/11ty-template.git
-cd 11ty-template
+git clone https://github.com/your-username/client-website.git
+cd client-website
 ```
 
 ### Install dependencies:
