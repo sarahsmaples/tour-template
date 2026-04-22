@@ -1,6 +1,7 @@
 module.exports = {
   name: "Client Name",
   address: {
+    street: "123 Main St",
     city: "City",
     state: "State",
     zip: "12345",
